@@ -1,17 +1,17 @@
-# toku
+📱 Tuko: Simple Language Learning App
+A minimalist, user-friendly language learning app built with Flutter for beginners to learn basic vocabulary and phrases.
 
-A new Flutter project.
+✨ Key Features
+📚 Basic Vocabulary - Learn common words with images & audio
 
-## Getting Started
+🎙 Pronunciation Practice - Voice recording & playback
 
-This project is a starting point for a Flutter application.
+🔄 Flashcards - Interactive learning with swipe gestures
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+🛠 Tech Stack
+Frontend: Flutter (iOS & Android)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# toku
+Audio: just_audio & record
+
+Animations: flutter_animate
